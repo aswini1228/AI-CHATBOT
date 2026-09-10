@@ -1,16 +1,14 @@
 # AI-CHATBOT
-AI Chatbot
 
 An AI-powered chatbot web application that allows users to interact with an Artificial Intelligence model through a simple and interactive chat interface.
-
 The application is developed using Python, Streamlit, Hugging Face Transformers, and Hugging Face Hub.
 
-Live Application
+**Live Application**
 
 Try the AI Chatbot:
 "Open AI Chatbot" (https://ai-chatbot-en9q5xd4z2my-ai-chatbothukai-chatboteu4ewljeh.streamlit.app/)
 
-Project Overview
+**Project Overview**
 
 The AI Chatbot provides an interactive platform where users can enter questions or messages and receive AI-generated responses.
 
@@ -18,7 +16,7 @@ The application uses a pre-trained AI language model through Hugging Face and pr
 
 This project demonstrates the practical implementation of Artificial Intelligence, Natural Language Processing, and Generative AI in a web-based application.
 
-Key Features
+**Key Features**
 
 - Interactive chatbot interface
 - AI-generated responses
@@ -28,7 +26,7 @@ Key Features
 - Real-time interaction
 - Web-based deployment
 
-Technologies Used
+**Technologies Used**
 
 Technology| Purpose
 Python| Application development
@@ -37,7 +35,7 @@ Hugging Face Transformers| AI model integration
 Hugging Face Hub| Model access and hosting
 PyTorch| Machine learning framework
 
-How It Works
+**How It Works**
 
 User
   ↓
@@ -63,7 +61,7 @@ Working Process
 6. The AI generates a response.
 7. The generated response is displayed in the chatbot interface.
 
-Screenshots
+**Screenshots**
 
 Chatbot Interface
 
@@ -126,7 +124,7 @@ AI Chatbot Application
         ↓
 Live Web Application
 
-Use Cases
+**Use Cases**
 
 - Basic question answering
 - Conversational AI
@@ -135,7 +133,7 @@ Use Cases
 - AI project demonstrations
 - Interactive web-based AI applications
 
-Future Enhancements
+**Future Enhancements**
 
 - Add conversation history
 - Improve response quality
@@ -145,7 +143,7 @@ Future Enhancements
 - Add file-based question answering
 - Improve chatbot interface
 
-Learning Outcomes
+*Learning Outcomes*
 
 This project helped in understanding:
 
@@ -158,10 +156,9 @@ This project helped in understanding:
 - GitHub
 - Cloud deployment
 
-Conclusion
+**Conclusion**
 
 The AI Chatbot project demonstrates how Artificial Intelligence and Natural Language Processing models can be integrated into an interactive web application.
-
 By combining Python, Streamlit, Hugging Face Transformers, and Hugging Face Hub, the project provides a practical implementation of a conversational AI system accessible through a web browser.
 
 Live Demo
